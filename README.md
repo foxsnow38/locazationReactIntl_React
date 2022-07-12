@@ -1,0 +1,1 @@
+this project simply shows you reactIntl and this is source https://app.patika.dev/courses/react/localization-react-intl
